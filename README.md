@@ -1,7 +1,9 @@
-Bioactivity Drug Discovery
+**Bioactivity Drug Discovery**
+
 This repository contains code and data related to bioactivity prediction of drug candidate compounds targeting the SARS-CoV replicase polyprotein 1ab. The aim is to determine a suitable conventional machine learning model using the ChEMBL dataset to predict bioactivity values of different compounds.
 
-Contents
+**Contents**
+
 Notebooks:
 Bioactivity.ipynb: Main notebook for bioactivity prediction.
 Bioactivity_EDA.ipynb: Exploratory data analysis.
